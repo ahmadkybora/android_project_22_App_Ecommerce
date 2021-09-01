@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">android_project_22_Ecommerce_App</string>
+    <string name="first_name">First Name...</string>
+    <string name="last_name">Last Name...</string>
+    <string name="username">Username...</string>
+    <string name="email">Email...</string>
+    <string name="mobile">Mobile...</string>
+    <string name="home_phone">Home Phone...</string>
+    <string name="work_address">Work Address...</string>
+    <string name="home_address">Home Address...</string>
+    <string name="password">Password...</string>
+    <string name="confirm_password">Confirm Password...</string>
+    <string name="age">Age...</string>
+    <string name="gender">Gender...</string>
+    <string name="i_agree">I agree to the terms of use</string>
+    <string name="website">Website</string>
+    <string name="save">Save</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username_already_exists">Username already exists</string>
+    <string name="phone">Phone</string>
+    <string name="alpha_numeric">Alpha Numeric (Max Length 12)</string>
+    <string name="submit">Submit</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="terms_and_conditions">I agree to the terms and conditions</string>
+    <string name="max_value">Max Value (10)</string>
+    <string name="min_value">Min Value(2)</string>
+    <string name="value_range">Value between 2 and 10</string>
+    <string name="first_field">First field to verify</string>
+</resources>
